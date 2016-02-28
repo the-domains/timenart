@@ -1,6 +1,6 @@
 name: timenart
 favicon: null
-layout_spectrum: 0.13363
+layout_spectrum: 0.03729
 typography_spectrum: 0.23427
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#64655f'
     - '#fefefe'
     - '#9e9c90'
-  brandStrength: 0.716216
+  brandStrength: 0.6875
   lightness: 0.14527
-  saturation: 0.689189
-  rhythmicContrast: 0.516891
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
