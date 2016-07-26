@@ -1,7 +1,7 @@
 name: timenart
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.23427
+layout_spectrum: 0.50086
+typography_spectrum: 0.52835
 title: 'Everything clocks '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#64655f'
     - '#fefefe'
     - '#9e9c90'
-  brandStrength: 0.6875
+  brandStrength: 0.25
   lightness: 0.14527
   saturation: 0.125
   rhythmicContrast: 0.75
