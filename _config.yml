@@ -1,29 +1,62 @@
-name: timenart
-favicon: null
-layout_spectrum: 0.99133
-typography_spectrum: 0.52835
-title: 'Everything clocks '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.08754812087789916
+typography_spectrum: 0.6118889520958176
+color:
+  saturation: 0.8298927409023894
+  brandStrength: 0.3653362624401614
+  lightness: 0.010752216301821542
+  brandColors:
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  rhythmicContrast: 0.07872461850026458
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fdfdfd'
-    - '#f1f1f1'
-    - '#e1e1e1'
-    - '#d4d4d4'
-    - '#cbcbcb'
-  brandStrength: 0.9375
-  lightness: 0.9375
-  saturation: 0.1875
-  rhythmicContrast: 0
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Time and Music
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About us
+    id: 64728719-807a-455a-9113-aaf524a61bdd
+    type: content
+  - name: 'Our new collection '
+    id: 2867c51b-cbb2-4868-9c64-1d3f9b55860f
+    type: content
+  - name: Wall clocks
+    id: ccbb41ff-f947-43d9-acac-363b53b2fc7e
+    type: content
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Everything clocks '
+content: []
+description: >-
+  We love clocks, design and music and we are trying our best to combine all of
+  them in nice accessories for the home.
+purpose:
+  - type: contact
+    url: 'tel:+991233245992'
+    label: Call +991233245992
+author:
+  name: 'Andrei '
+url: 'https://timeandmusic.today'
+github: true
