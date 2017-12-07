@@ -55,7 +55,7 @@ description: >-
 purpose:
   - type: contact
     url: 'tel:+991233245992'
-    label: Call +991233245992
+    label: Call us
   - type: external
     url: 'https://google.com'
     label: Store
