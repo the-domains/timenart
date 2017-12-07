@@ -1,4 +1,3 @@
-layout_spectrum: 0.08754812087789916
 typography_spectrum: 0.6118889520958176
 color:
   saturation: 0.8298927409023894
@@ -11,15 +10,20 @@ color:
     - '#723147'
     - '#31152B'
   rhythmicContrast: 0.07872461850026458
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.08754812087789916
 analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: 'Andrei '
 name: Time and Music
+url: 'https://timeandmusic.today'
 cta:
   bucket: null
   version: null
@@ -33,6 +37,9 @@ navigation:
     type: content
   - name: Wall clocks
     id: ccbb41ff-f947-43d9-acac-363b53b2fc7e
+    type: content
+  - name: Blog
+    id: 3f9e2420-86d9-4b84-9a73-7f08376f1701
     type: content
 favicon: null
 collections:
@@ -59,7 +66,3 @@ purpose:
   - type: external
     url: 'https://www.timenmusic.com'
     label: Store
-author:
-  name: 'Andrei '
-url: 'https://timeandmusic.today'
-github: true
