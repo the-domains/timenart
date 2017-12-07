@@ -32,14 +32,14 @@ navigation:
   - name: About us
     id: 64728719-807a-455a-9113-aaf524a61bdd
     type: content
+  - name: Blog
+    id: 3f9e2420-86d9-4b84-9a73-7f08376f1701
+    type: content
   - name: 'Our new collection '
     id: 2867c51b-cbb2-4868-9c64-1d3f9b55860f
     type: content
   - name: Wall clocks
     id: ccbb41ff-f947-43d9-acac-363b53b2fc7e
-    type: content
-  - name: Blog
-    id: 3f9e2420-86d9-4b84-9a73-7f08376f1701
     type: content
 favicon: null
 collections:
