@@ -56,6 +56,9 @@ purpose:
   - type: contact
     url: 'tel:+991233245992'
     label: Call +991233245992
+  - type: external
+    url: 'https://google.com'
+    label: 'https://google.com'
 author:
   name: 'Andrei '
 url: 'https://timeandmusic.today'
