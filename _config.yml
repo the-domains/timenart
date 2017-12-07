@@ -57,7 +57,7 @@ purpose:
     url: 'tel:+991233245992'
     label: Call us
   - type: external
-    url: 'https://google.com'
+    url: 'https://www.timenmusic.com'
     label: Store
 author:
   name: 'Andrei '
